@@ -23,28 +23,26 @@ Para enviar vários pacotes UDP para um alvo você pode usar este simples script
 ## Clone o repositório
 
 ```bash
-  git clone https://github.com/Rodrigo-Kelven/Relatorio_Maquina
+  git clone https://github.com/Rodrigo-Kelven/UDP-Flood
 ```
     
 ## Entre no diretório do projeto e de a permissão
 
 ```bash
-  cd Relatorio_Maquina
-  chmod +x relatorio_maquina.sh
+  cd UDP-Flood
+  chmod +x flood_UDP.py
 ```
 
 ## Inicie o script
 
 ```bash
-  ./relatorio_maquina.sh
+  pyhton flood_UDP.py
 ```
 
 # Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.
 
-## Melhorias
+## Autores
 
-- Ao instalado, ganhe privilegio e execute de forma automática em Background.
-- Implementar melhores práticas de desempenho. 
-- Implementar mais informações no relatorio sem comprometer sua compreensão
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
